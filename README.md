@@ -4,6 +4,10 @@ This repository contains a collection of select chess games in PGN format.  Game
 ## Usage
 The PGNs in this repository are intended to be used as a companion to it's corresponding book.  While working through a book of chess games you can view selected games in your preferred chess software for further analysis or what-if situations.
 
+## PGN Collection
+* Fischer, Bobby. My 60 Memorable Games. New York, Simon & Schuster, 1969
+* Tal, Mikhail.  The Life and Games of Mikhail Tal.  RHM, 1976
+
 ## Copyright Notice
 I'm not a lawyer and laws vary from country to country. Here are my thoughts and understanding:
 
